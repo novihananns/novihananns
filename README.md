@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World! I'm Novihana 👋
+💻 I'm currently learning [**Laravel**](https://laravel.com) Framework
 <!--
 **novihananns/novihananns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
