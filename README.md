@@ -1,7 +1,6 @@
 ## Hello World! I'm Novihana 👋
 
 ![Novihana](img/github-header-image.png)
-💻 I'm currently learning [**Laravel**](https://laravel.com) Framework
 
 💻 I'm currently learning [**Laravel**](https://laravel.com) Framework
 <!--
